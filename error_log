@@ -1,0 +1,158 @@
+[27-Jul-2021 14:40:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:40:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:40:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:40:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:40:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:40:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:41:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:41:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:42:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin http could not be loaded: /usr/lib64/mysql/plugin/http.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:42:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:42:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:42:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2059] Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=http...', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:43:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:45:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php:23
+Stack trace:
+#0 /home/softspri/public_html/dev/db.php(23): PDO->__construct('mysql:host=ftp....', 'softspri_dev', 'JGdw.3KO9-o?')
+#1 /home/softspri/public_html/dev/index.php(2): require_once('/home/softspri/...')
+#2 {main}
+  thrown in /home/softspri/public_html/dev/db.php on line 23
+[27-Jul-2021 14:51:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:51:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:51:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:51:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:51:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:51:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:51:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:51:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:51:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:51:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:51:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:51:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:52:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:52:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:53:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:53:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:54:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:54:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:54:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:54:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:55:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/dev/db.php on line 8
+[27-Jul-2021 14:55:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/dev/db.php on line 9
+[27-Jul-2021 14:56:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:56:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9
+[27-Jul-2021 14:57:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '45.83.192.23' is not allowed to connect to this MariaDB server in /home/softspri/public_html/dev/db.php on line 8
+[27-Jul-2021 14:57:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/softspri/public_html/dev/db.php on line 9

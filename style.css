@@ -100,4 +100,13 @@ input:checked + .slider:before {
 
 #errorBlock {
     display: none;
+    width: 100%;
+}
+
+.alert {
+  width: 450px;
+}
+
+.act {
+  color:green;
 }
